@@ -1,0 +1,9 @@
+Interface            Name                 Enabled    IPv4
+Management0/0        Management           Yes        192.168.1.21
+GigabitEthernet0/0                        No         None
+GigabitEthernet0/1                        No         None
+GigabitEthernet0/2                        No         None
+GigabitEthernet0/3                        No         None
+GigabitEthernet0/4                        No         None
+GigabitEthernet0/5                        No         None
+GigabitEthernet0/6                        No         None
